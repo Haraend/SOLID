@@ -1,8 +1,4 @@
-﻿using System;
-
-public class Class1
+﻿public class Vehicles
 {
-	public Class1()
-	{
-	}
+
 }

@@ -1,8 +1,8 @@
-﻿using System;
-
-public class Class1
+﻿public class PasswordHasher
 {
-	public Class1()
-	{
-	}
+    public String HashAndSavePassword(String password)
+    {
+        //hashing implementation
+        //save to the db
+    }
 }
